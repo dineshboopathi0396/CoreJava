@@ -1,0 +1,2 @@
+inheritancesample.ParentClass
+inheritancesample.InheritanceSample

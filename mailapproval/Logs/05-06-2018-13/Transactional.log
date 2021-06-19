@@ -1,0 +1,36 @@
+05-06-2018 13:20:06-- > Input xml : <?xml version=1.0?>
+<NGOConnectCabinet_Input>
+<Option>NGOConnectCabinet</Option>
+<CabinetName>usl</CabinetName>
+<UserName>mailsystem</UserName>
+<UserPassword>usl@1234</UserPassword><CurrentDateTime></CurrentDateTime><UserExist>N</UserExist><MainGroupIndex>0</MainGroupIndex><UserType>U</UserType><Locale>en-us</Locale><ListSysFolder>Y</ListSysFolder></NGOConnectCabinet_Input>
+
+05-06-2018 13:20:06-- > IP :172.18.1.196 Port :3333
+
+05-06-2018 13:22:41-- > Input xml : <?xml version=1.0?>
+<NGOConnectCabinet_Input>
+<Option>NGOConnectCabinet</Option>
+<CabinetName>usl</CabinetName>
+<UserName>mailsystem</UserName>
+<UserPassword>usl@1234</UserPassword><CurrentDateTime></CurrentDateTime><UserExist>N</UserExist><MainGroupIndex>0</MainGroupIndex><UserType>U</UserType><Locale>en-us</Locale><ListSysFolder>Y</ListSysFolder></NGOConnectCabinet_Input>
+
+05-06-2018 13:22:41-- > IP :172.18.1.196 Port :3333
+
+05-06-2018 13:24:35-- > Input xml : <?xml version=1.0?>
+<NGOConnectCabinet_Input>
+<Option>NGOConnectCabinet</Option>
+<CabinetName>usl</CabinetName>
+<UserName>mailsystem</UserName>
+<UserPassword>usl@1234</UserPassword><CurrentDateTime></CurrentDateTime><UserExist>N</UserExist><MainGroupIndex>0</MainGroupIndex><UserType>U</UserType><Locale>en-us</Locale><ListSysFolder>Y</ListSysFolder></NGOConnectCabinet_Input>
+
+05-06-2018 13:24:35-- > IP :172.18.1.196 Port :3333
+
+05-06-2018 13:34:50-- > Input xml : <?xml version=1.0?>
+<NGOConnectCabinet_Input>
+<Option>NGOConnectCabinet</Option>
+<CabinetName>usl</CabinetName>
+<UserName>mailsystem</UserName>
+<UserPassword>usl@1234</UserPassword><CurrentDateTime></CurrentDateTime><UserExist>N</UserExist><MainGroupIndex>0</MainGroupIndex><UserType>U</UserType><Locale>en-us</Locale><ListSysFolder>Y</ListSysFolder></NGOConnectCabinet_Input>
+
+05-06-2018 13:34:50-- > IP :172.18.1.196 Port :3333
+
